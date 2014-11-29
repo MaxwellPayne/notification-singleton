@@ -8,4 +8,4 @@ function NotificationCenter() {
 };
 util.inherits(NotificationCenter, events.EventEmitter);
 
-exports.NotificationEmitter = new NotificationCenter();
+module.exports = new NotificationCenter();
