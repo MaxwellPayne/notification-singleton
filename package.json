@@ -2,5 +2,6 @@
   "name": "notification-singleton",
   "version": "0.0.1",
   "dependencies": {
+  "apn": "latest"
   } 
 }
